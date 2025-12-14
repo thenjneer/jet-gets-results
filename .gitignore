@@ -1,0 +1,25 @@
+# Ignore photos folder README (it's just instructions)
+photos/README.txt
+
+# Optional: Uncomment this line if you want to keep photos out of git initially
+# photos/*.jpg
+# photos/*.jpeg
+# photos/*.png
+# photos/*.gif
+# photos/*.webp
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
