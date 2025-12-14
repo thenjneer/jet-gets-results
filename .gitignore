@@ -1,6 +1,12 @@
 # Ignore photos folder README (it's just instructions)
 photos/README.txt
 
+# Ignore video files (too large for GitHub)
+photos/*.mp4
+photos/*.mov
+photos/*.avi
+photos/*.MP4
+
 # Optional: Uncomment this line if you want to keep photos out of git initially
 # photos/*.jpg
 # photos/*.jpeg
